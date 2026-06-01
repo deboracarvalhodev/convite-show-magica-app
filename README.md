@@ -2,7 +2,7 @@
     <img src="./assets/logotipo.png" alt="Logotipo" height="100">
 </div>
 
-O convite digital para o **Teatro Arcano** é uma aplicação desenvolvida em React Native que apresenta o evento do Espetáculo de Mágica do Grande Rubine - ilusionista fictício. O usuário pode navegar entre diferentes telas para visualizar informações sobre o evento e compra de ingerssos.
+O convite digital para o **Teatro Arcano** é uma aplicação desenvolvida em React Native que apresenta o evento do Espetáculo de Mágica do Grande Rubine - ilusionista fictício. O usuário pode navegar entre diferentes telas para visualizar informações sobre o evento e compra de ingressos.
 
 O projeto foi desenvolvido para a disciplina de Programação para Dispositivos Móveis II do curso de Desenvolvimento de Software Multiplataforma.
 
